@@ -42,4 +42,10 @@ class Test{
 
 
 
+**args[]参数为**
+
+![](/Users/yunqiao/Desktop/截屏2025-09-26 16.03.13.png)
+
 ## Task2.多文件Java项目
+
+详见uestc.glimmerjava2.com.Example
