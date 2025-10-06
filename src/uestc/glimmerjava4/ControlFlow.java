@@ -1,4 +1,4 @@
-package uestc.GlimmerJava4;
+package uestc.glimmerjava4;
 
 public class ControlFlow {
 

@@ -188,5 +188,5 @@ System.out.println(a+" "+b);
 
 ## Task3.数据结构
 
-**见 `package uestc.glimmerJava3`**
+**见 `package uestc.glimmerjava3`**
 

@@ -1,4 +1,4 @@
-package uestc.glimmerJava3;
+package uestc.glimmerjava3;
 
 import java.util.*;
 
