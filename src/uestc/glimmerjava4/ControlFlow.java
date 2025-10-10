@@ -87,6 +87,8 @@ public class ControlFlow {
     }
 
 
+
+
     //TASK 4: 汉诺塔
     /*
     运用递归方法：
@@ -110,6 +112,6 @@ public class ControlFlow {
     }
 
     public static void main(String[] args) {
-        hanoi(3);
+        int i = Fibonacci2(4);
     }
 }
